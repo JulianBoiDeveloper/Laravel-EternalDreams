@@ -1,0 +1,40 @@
+[26-Mar-2023 23:13:13 UTC] PHP Warning:  require(/home2/vuqu8870/public_html/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home2/vuqu8870/public_html/vendor/composer/autoload_real.php on line 41
+[26-Mar-2023 23:13:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/vuqu8870/public_html/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/vuqu8870/public_html/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/vuqu8870/public_html/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home2/vuqu8870/public_html/vendor/autoload.php(25): ComposerAutoloaderInitb59f9f75087b9df5a0954d7957ab1cbf::getLoader()
+#2 /home2/vuqu8870/public_html/public/index.php(34): require('/home2/vuqu8870...')
+#3 {main}
+  thrown in /home2/vuqu8870/public_html/vendor/composer/autoload_real.php on line 41
+[26-Mar-2023 23:18:21 UTC] PHP Warning:  require(/home2/vuqu8870/public_html/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home2/vuqu8870/public_html/vendor/composer/autoload_real.php on line 41
+[26-Mar-2023 23:18:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/vuqu8870/public_html/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/vuqu8870/public_html/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/vuqu8870/public_html/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home2/vuqu8870/public_html/vendor/autoload.php(25): ComposerAutoloaderInitb59f9f75087b9df5a0954d7957ab1cbf::getLoader()
+#2 /home2/vuqu8870/public_html/public/index.php(34): require('/home2/vuqu8870...')
+#3 {main}
+  thrown in /home2/vuqu8870/public_html/vendor/composer/autoload_real.php on line 41
+[26-Mar-2023 23:18:30 UTC] PHP Warning:  require(/home2/vuqu8870/public_html/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home2/vuqu8870/public_html/vendor/composer/autoload_real.php on line 41
+[26-Mar-2023 23:18:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/vuqu8870/public_html/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/vuqu8870/public_html/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/vuqu8870/public_html/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home2/vuqu8870/public_html/vendor/autoload.php(25): ComposerAutoloaderInitb59f9f75087b9df5a0954d7957ab1cbf::getLoader()
+#2 /home2/vuqu8870/public_html/public/index.php(34): require('/home2/vuqu8870...')
+#3 {main}
+  thrown in /home2/vuqu8870/public_html/vendor/composer/autoload_real.php on line 41
+[26-Mar-2023 23:18:31 UTC] PHP Warning:  require(/home2/vuqu8870/public_html/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home2/vuqu8870/public_html/vendor/composer/autoload_real.php on line 41
+[26-Mar-2023 23:18:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/vuqu8870/public_html/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/vuqu8870/public_html/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/vuqu8870/public_html/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home2/vuqu8870/public_html/vendor/autoload.php(25): ComposerAutoloaderInitb59f9f75087b9df5a0954d7957ab1cbf::getLoader()
+#2 /home2/vuqu8870/public_html/public/index.php(34): require('/home2/vuqu8870...')
+#3 {main}
+  thrown in /home2/vuqu8870/public_html/vendor/composer/autoload_real.php on line 41
+[26-Mar-2023 23:18:31 UTC] PHP Warning:  require(/home2/vuqu8870/public_html/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home2/vuqu8870/public_html/vendor/composer/autoload_real.php on line 41
+[26-Mar-2023 23:18:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/vuqu8870/public_html/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/vuqu8870/public_html/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/vuqu8870/public_html/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home2/vuqu8870/public_html/vendor/autoload.php(25): ComposerAutoloaderInitb59f9f75087b9df5a0954d7957ab1cbf::getLoader()
+#2 /home2/vuqu8870/public_html/public/index.php(34): require('/home2/vuqu8870...')
+#3 {main}
+  thrown in /home2/vuqu8870/public_html/vendor/composer/autoload_real.php on line 41
